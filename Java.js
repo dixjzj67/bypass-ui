@@ -9,10 +9,10 @@ var AWN;
                 const i = {
                     maxNotifications: 10,
                     animationDuration: 300,
-                    position: "center",
+                    position: "bottom-left",
                     labels: {
                         tip: "Tip",
-                        info: "执行中……",
+                        info: "执行中…",
                         success: "执行成功",
                         warning: "Attention",
                         alert: "Error",
