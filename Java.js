@@ -9,7 +9,7 @@ var AWN;
                 const i = {
                     maxNotifications: 10,
                     animationDuration: 300,
-                    position: "bottom-left",
+                    position: "center",
                     labels: {
                         tip: "Tip",
                         info: "执行中…",
